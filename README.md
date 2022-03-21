@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-- 🔭 EasyMine/Instale Tecnologia - Analista de Sistema
+- 🔭 EasyMine/Instale Tecnologia - System Analyst Trainee
 - 🌱 Learning Typescript - Cypress - C#
 
 <div>
