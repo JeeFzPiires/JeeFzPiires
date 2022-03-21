@@ -2,7 +2,7 @@
 
 
 - 🔭 EasyMine/Instale Tecnologia - Analista de Sistema
-- 🌱 Aprendendo Typescript - Cypress - C#
+- 🌱 Learning Typescript - Cypress - C#
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeFzPiires&show_icons=true&theme=merko"/>
