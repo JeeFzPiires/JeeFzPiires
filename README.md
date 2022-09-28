@@ -2,7 +2,7 @@
 
 
 - 🔭 EasyMine/Instale Tecnologia - System Analyst Trainee
-- 🌱 Learning Typescript - Cypress - C#
+- 🌱 Learning React - ReactNative - Cypress - C#
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeFzPiires&show_icons=true&theme=merko"/>
