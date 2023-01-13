@@ -2,7 +2,7 @@
 
 
 - 🔭 EasyMine/Instale Tecnologia - System Analyst Trainee
-- 🌱 Learning React - ReactNative - Cypress - C#
+- 🌱 Learning React - ReactNative - Cypress - C# - NestJS
 
 
 <div style="display: inline_block"><br>
